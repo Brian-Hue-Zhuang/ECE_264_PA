@@ -10,9 +10,11 @@ Designed to take in functions and perform an integral on them within a certain p
 
 ## PA03
 Torino's Tiling Problem
+User inputs 1x1 Tile and outputs the tile solution into a file
 
 ## PA04
 BMP Image bit density convertor
+Can convert photots from 16 bit to 24 bit and vice versa.
 
 ## PA05
 Turns text files into binary trees
