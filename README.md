@@ -18,3 +18,4 @@ Can convert photots from 16 bit to 24 bit and vice versa.
 
 ## PA05
 Turns text files into binary trees
+Test
